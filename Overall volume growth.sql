@@ -1,6 +1,6 @@
 USE mavenfuzzyfactory;
 
-/*1. Show overll volume growth. Pull overall session and order volume, trended by
+/*1. Show overall volume growth. Pull overall session and order volume, trended by
  quarter for the life of the business. */
 
 SELECT 
