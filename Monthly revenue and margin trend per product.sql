@@ -1,4 +1,4 @@
-/*5. Monthly trending for revenue and margin by product, along with total sales and revenue. 
+/*5. Monthly trending for revenue and margin by product, along with total sales Margin and revenue. 
 Also check seasonality*/
 USE Mavenfuzzyfactory;
 SELECT * FROM order_items;
