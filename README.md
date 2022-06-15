@@ -2,7 +2,7 @@
 Data Driven insight and report  into Mavenfuzzy business using SQL.
 This Repository contains different insights into the Maven fuzzy business as well as reporting areas were improvements can be made.
 
-T
+
 # Project Context 
 Mavenfuzzy factory is an ecommerce startup that sells toys. They're looking to help grow their business and analyze performance along the way. 
 
